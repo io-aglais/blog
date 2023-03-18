@@ -198,3 +198,13 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+jekyll_compose:
+  auto_open: true
+  default_front_matter:
+  drafts:
+    category: place_me
+    tags: place_me
+  posts:
+    category: place_me
+    tags: place_me
